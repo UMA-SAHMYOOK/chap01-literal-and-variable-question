@@ -19,5 +19,5 @@ public class Application2 {
 		System.out.println("총점 : " + result);
 		System.out.println("평균 : " + result/3);
 	}
-
+//test입니다.
 }
