@@ -11,15 +11,15 @@ public class Application1 {
          * 나누기한 몫 : 0
          * 나누기한 나머지 : 20
          * */
-        /**/
-        System.out.println("함종규 풀리퀘스트 테스트 두번째");
-        
+        int a = 20;
+        int b = 30;
 
-        System.out.println("더하기 결과 : " + (20+30));
-        System.out.println("빼기 결과 : " + (20-30));
-        System.out.println("곱하기 결과 : " + (20*30));
-        System.out.println("나누기한 몫 : " + (20/30));
-        System.out.println("나누기한 나머지 : " + (20%30));
+
+        System.out.println("더하기 결과 : " + (a+b));
+        System.out.println("빼기 결과 : " + (a-b));
+        System.out.println("곱하기 결과 : " + (a*b));
+        System.out.println("나누기한 몫 : " + (a/b));
+        System.out.println("나누기한 나머지 : " + (a%b));
 
     }
 
