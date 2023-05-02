@@ -11,7 +11,10 @@ public class Application2 {
 		 * 총점 : 201
 		 * 평균 : 67
 		 *  */
-		
+		double k = 80.5, m = 50.6, e = 70.8;
+		double sum = k+m+e;
+		System.out.println("총점 : "+ (int)sum);
+		System.out.println("평균 : "+ ((int)sum/3));
 	}
 
 }
