@@ -2,6 +2,10 @@ package com.ohgiraffers.level02.normal;
 
 public class test1 {
     public static void main(String[] args){
-        System.out.println("PR체크리스트 테스트");
+
+        int a = 100;
+        double b = 100;
+
+        System.out.println(a+b);
     }
 }
