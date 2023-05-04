@@ -10,7 +10,9 @@ public class Application2 {
 		 * -- 출력 예시 --
 		 * 총점 : 201
 		 * 평균 : 67
-		 *  */
+		 *
+		 * */
+
 		double k = 80.5, m = 50.6, e = 70.8;
 		double sum = k+m+e;
 		System.out.println("총점 : "+ (int)sum);
